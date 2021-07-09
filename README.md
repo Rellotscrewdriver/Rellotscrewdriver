@@ -52,7 +52,7 @@
 
 ### Contact list
 
-<a href= "https://discord.com/users/Rellot's screwdriver#7163">
+<a href= "https://discord.com/users/481829350749110293">
 <img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 <a href= "https://stackoverflow.com/users/13572188/rellots-screwdriver">
