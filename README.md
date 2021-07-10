@@ -4,20 +4,24 @@
 - I'm looking for a little collaboration and contribution this year because I suck
 - I’m currently working on 2D beat 'em up game, not sure when It's gonna be looking good
 - 2021 Resolution: Contribute some more to Open Source projects
-- 2022 Resolution: participate in GameJams, where people make games within a time limit with a specificed theme
+- 2022 Resolution: participate in Gamejams, where people make games within a time limit with a specificed theme
 - Fun fact: I like retro stuff and the 80s nostalgia (Thanks to Vice City) even though I never born in that era
 ---
 
-### Languages and Tools:
+### Languages:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### Tools:
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 <br />
+### Game Engine:
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 <br />
+### Version Control:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 
 
