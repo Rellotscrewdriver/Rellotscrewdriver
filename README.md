@@ -5,7 +5,7 @@
 - I’m currently working on 2D beat 'em up game, not sure when It's gonna be looking good
 - 2021 Resolution: Contribute some more to Open Source projects
 - 2022 Resolution: participate in Gamejams, where people make games within a time limit with a specificed theme
-- Fun fact: I like retro stuff and the 80s nostalgia (Thanks to Vice City) even though I never born in that era
+- Fun fact: I like retro stuff and the 80s nostalgia (Thanks to Vice City) even though I was never born in that era
 ---
 
 ### Languages:
