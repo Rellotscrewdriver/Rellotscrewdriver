@@ -1,4 +1,4 @@
-# Hey there! I'm Rellot and I like to screw people. so screw you
+<h1 align="center">Hey there! I'm Rellot and I like to screw people. so screw you</h2>
 
 - I’m self-learning to make 2D games
 - I'm looking for a little collaboration and contribution this year because I suck
@@ -23,13 +23,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-
-
 ---
 
-<details><summary><strong>Click to see my current Profile stats</strong></summary>
-<br />
-
+<h2 align="center">My GitHub Stats</h2>
 <p align="center">
 <a> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rellotscrewdriver&count_private=true&theme=nord&show_icons=true&hide_border=true"/>
@@ -50,12 +46,12 @@
 </p>
 
 **NOTE** : the above data (especially Most Used Languages) does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
-</details>
 
 ---
 
-### Contact list
 
+<h2 align="center">Contact Information</h2>
+<div align = "center">
 <a href= "https://discord.com/users/481829350749110293">
 <img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
@@ -65,3 +61,4 @@
 <a href="https://rellotscrewdriver.itch.io">                                           
 <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
 </a>
+</div>
