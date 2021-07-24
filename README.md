@@ -49,10 +49,6 @@
 </a>
 
 <a>
-  <img height="136em" src="https://github-profile-trophy.vercel.app/?username=Rellotscrewdriver&theme=nord&no-frame=true&margin-w=4"/>
-</a>
-
-<a>
   <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=Rellotscrewdriver&hide_border=true&theme=nord" />
 </a>
 
