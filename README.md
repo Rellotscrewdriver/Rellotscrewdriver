@@ -41,11 +41,11 @@
 <h2 align="center">My GitHub Stats</h2>
 <p align="center">
 <a> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rellotscrewdriver&count_private=true&theme=nord&show_icons=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rellotscrewdriver&count_private=true&theme=nord&show_icons=true&hide_border=true"/>
 </a>
 
 <a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rellotscrewdriver&layout=compact&hide_border=true&theme=nord"
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rellotscrewdriver&layout=compact&hide_border=true&theme=nord"
 </a>
 
 <a>
