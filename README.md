@@ -41,15 +41,15 @@
 <h2 align="center">My GitHub Stats</h2>
 <p align="center">
 <a> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rellotscrewdriver&count_private=true&theme=nord&show_icons=true&hide_border=true"/>
+  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=Rellotscrewdriver&count_private=true&theme=synthwave&show_icons=true&hide_border=true"/>
 </a>
 
 <a>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rellotscrewdriver&layout=compact&hide_border=true&theme=nord"
+  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rellotscrewdriver&layout=compact&hide_border=true&theme=synthwave"
 </a>
 
 <a>
-  <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=Rellotscrewdriver&hide_border=true&theme=nord" />
+  <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=Rellotscrewdriver&hide_border=true&theme=synthwave" />
 </a>
 
 </p>
@@ -57,8 +57,21 @@
 **NOTE** : the above data (especially Most Used Languages) does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
 
 ---
-
-
+  
+<div class="Look for contribution" align="center">
+  
+<h2>Looking for contribution?</h2>
+If you are looking eyes to contribute my projects then check out these two repositories that I'm working on, you can improve my bad code. or if none of those interests you, can give me some suggestions by opening a new issue.  
+  
+<a href="https://github.com/Rellotscrewdriver/Digital-Measurement-Calculator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rellotscrewdriver&repo=Digital-Measurement-Calculator&&theme=synthwave" />
+</a>
+<a href="https://github.com/Rellotscrewdriver/Math-Loop-Quiz-Program">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rellotscrewdriver&repo=Math-Loop-Quiz-Program&theme=synthwave" />
+</a>
+</div>
+  
+---
 <h2 align="center">Contact Information</h2>
 <div align = "center">
 <a href= "https://discord.com/users/481829350749110293">
