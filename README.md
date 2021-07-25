@@ -6,6 +6,7 @@
 - 2021 Resolution: Contribute some more to Open Source projects
 - 2022 Resolution: participate in Gamejams, where people make games within a time limit with a specificed theme
 - Fun fact: I like retro stuff and the 80s nostalgia (Thanks to Vice City) even though I was never born in that era
+
 ---
 
 <table style="width:100%" align="center">
@@ -37,50 +38,56 @@
 </table>
 
 ---
+  
+<div align="center">
+<h2>My GitHub Stats</h2>
+  
+  <a> 
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rellotscrewdriver&count_private=true&theme=synthwave&show_icons=true&hide_border=true"/>
+  </a>
 
-<h2 align="center">My GitHub Stats</h2>
-<p align="center">
-<a> 
-  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=Rellotscrewdriver&count_private=true&theme=synthwave&show_icons=true&hide_border=true"/>
-</a>
+  <a>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rellotscrewdriver&layout=compact&hide_border=true&theme=synthwave"
+  </a>
 
-<a>
-  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rellotscrewdriver&layout=compact&hide_border=true&theme=synthwave"
-</a>
+  <a>
+    <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=Rellotscrewdriver&hide_border=true&theme=synthwave" />
+  </a>
 
-<a>
-  <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=Rellotscrewdriver&hide_border=true&theme=synthwave" />
-</a>
-
-</p>
-
-**NOTE** : the above data (especially Most Used Languages) does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
-
+  <p align="left">**NOTE** : the above data (especially Most Used Languages) does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github<p>
+  
+</div>
 ---
   
 <div class="Look for contribution" align="center">
+  <h2>Looking for contribution?</h2>
   
-<h2>Looking for contribution?</h2>
-If you are looking eyes to contribute my projects then check out these two repositories that I'm working on, you can improve my bad code. or if none of those interests you, can give me some suggestions by opening a new issue.  
+  <a href="https://github.com/Rellotscrewdriver/Digital-Measurement-Calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rellotscrewdriver&repo=Digital-Measurement-Calculator&&theme=synthwave" />
+  </a>
   
-<a href="https://github.com/Rellotscrewdriver/Digital-Measurement-Calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rellotscrewdriver&repo=Digital-Measurement-Calculator&&theme=synthwave" />
-</a>
-<a href="https://github.com/Rellotscrewdriver/Math-Loop-Quiz-Program">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rellotscrewdriver&repo=Math-Loop-Quiz-Program&theme=synthwave" />
-</a>
+  <a href="https://github.com/Rellotscrewdriver/Math-Loop-Quiz-Program">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rellotscrewdriver&repo=Math-Loop-Quiz-Program&theme=synthwave" />
+  </a>
+  
+  <h4>If you are looking eyes to contribute my project then check out these two repositories, you can improve my bad code. <br /> if none of those interests you, can give me some suggestions by opening a new issue in those two repos, respectively </h4>
 </div>
-  
+
 ---
-<h2 align="center">Contact Information</h2>
+  
 <div align = "center">
-<a href= "https://discord.com/users/481829350749110293">
-<img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-<a href= "https://stackoverflow.com/users/13572188/rellots-screwdriver">
-<img src= "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-</a>
-<a href="https://rellotscrewdriver.itch.io">                                           
-<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
-</a>
+  <h2>Contact Information</h2>
+  
+  <a href= "https://discord.com/users/481829350749110293">
+    <img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  
+  <a href= "https://stackoverflow.com/users/13572188/rellots-screwdriver">
+    <img src= "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  </a>
+  
+  <a href="https://rellotscrewdriver.itch.io">                                           
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
+  </a>
+  
 </div>
