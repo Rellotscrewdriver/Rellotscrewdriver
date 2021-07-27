@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Rellot and I like to screw people. so screw you</h2>
 
 - I’m self-learning to make 2D games
-- I'm looking for a little collaboration and contribution this year because I suck
+- I'm looking for a little collaboration and contribution this year because I suck at it
 - I’m currently working on 2D beat 'em up game, not sure when It's gonna be looking good
 - 2021 Resolution: Contribute some more to Open Source projects
 - 2022 Resolution: participate in Gamejams, where people make games within a time limit with a specificed theme
@@ -49,11 +49,7 @@
   <a>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rellotscrewdriver&layout=compact&theme=synthwave" />
   </a>
-
-  <a>
-    <img height="295em" src="https://activity-graph.herokuapp.com/graph?username=Rellotscrewdriver&hide_border=true&theme=synthwave" />
-  </a>
-
+  
   <p align="left">**NOTE** : the above data (especially Most Used Languages) does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github<p>
   
 </div>
@@ -63,17 +59,42 @@
 <div class="Look for contribution" align="center">
   <h2>Looking for contribution?</h2>
   
-  <a href="https://github.com/Rellotscrewdriver/Digital-Measurement-Calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rellotscrewdriver&repo=Digital-Measurement-Calculator&&theme=synthwave" />
-  </a>
+<table style="width:100%">
+<thead>
+      <tr>
+        <th><b>Projects</b></th>
+        <th><b>Stars</b></th>
+        <th><b>Forks</b></th>
+        <th><b>Issues</b></th>
+        <th><b>Pull Requests</b></th>
+      </tr>
+</thead>
   
-  <a href="https://github.com/Rellotscrewdriver/Math-Loop-Quiz-Program">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rellotscrewdriver&repo=Math-Loop-Quiz-Program&theme=synthwave" />
-  </a>
+<tbody>
+      <tr>
+	      <td><a href="https://github.com/Rellotscrewdriver/Digital-Measurement-Calculator"><b>D.I.C</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Rellotscrewdriver/Digital-Measurement-Calculator?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Rellotscrewdriver/Digital-Measurement-Calculator?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Rellotscrewdriver/Digital-Measurement-Calculator?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rellotscrewdriver/Digital-Measurement-Calculator?style=flat-square"/></td>
+      </tr>
+</tbody>
   
-  <h4>If you are looking eyes to contribute my project then check out these two repositories, you can improve my bad code. <br /> if none of those interests you, can give me some suggestions by opening a new issue in those two repos, respectively </h4>
+<tbody>  
+      <tr>   
+        <td><a href="https://github.com/Rellotscrewdriver/Math-Loop-Quiz-Program"><b>Math-Quiz</b></a></td>
+          <td><img alt="Stars" src="https://img.shields.io/github/stars/Rellotscrewdriver/Math-Loop-Quiz-Program?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Forks" src="https://img.shields.io/github/forks/Rellotscrewdriver/Math-Loop-Quiz-Program?style=flat-square&labelColor=343b41"/></td>
+          <td><img alt="Issues" src="https://img.shields.io/github/issues/Rellotscrewdriver/Math-Loop-Quiz-Program?style=flat-square"/></td>
+          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rellotscrewdriver/Math-Loop-Quiz-Program?style=flat-square" /></td>
+      </tr>
+</tbody>
+  
+</table>
+  
+<h4>If you are looking eyes to contribute my project then check out these two repositories, you can improve my bad code. <br /> if none of those interests you, can give me some suggestions by opening a new issue in those two repos, respectively </h4>
 </div>
-
+  
 ---
   
 <div align = "center">
