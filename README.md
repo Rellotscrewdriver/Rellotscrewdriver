@@ -101,7 +101,7 @@
 	
 </table>
   
-<h4>If you are looking eyes to contribute my project then check out these two repositories, you can improve my bad code. <br /> if none of those interests you, can give me some suggestions by opening a new issue in those two repos, respectively </h4>
+<h4>If you are looking eyes to contribute my project then check out these repositories, you can improve my bad code. <br /> if none of those interests you, can give me some suggestions by opening a new issue in those two repos, respectively </h4>
 </div>
   
 ---
