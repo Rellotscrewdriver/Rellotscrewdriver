@@ -46,9 +46,11 @@
   <tr>
   	<th style="border: none;"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rellotscrewdriver&count_private=true&theme=synthwave&show_icons=true&custom_title=Rellot's Github Stats"/></th>
     <th style="border: none;"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rellotscrewdriver&layout=compact&theme=synthwave" /></th>
+	
   </tr>
+	
 </table>
-
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rellotscrewdriver&theme=synthwave"> -->
   <p align="left">**NOTE** : the above data (especially Most Used Languages) does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github</p>
    
 </div>
@@ -101,7 +103,7 @@
 	
 </table>
   
-<h4>If you are looking eyes to contribute my project then check out these repositories, you can improve my bad code. <br /> if none of those interests you, can give me some suggestions by opening a new issue in those two repos, respectively </h4>
+<h4>If you are looking eyes to contribute my project then check out these repositories, you can improve my bad code. <br /> if none of those interests you, can give me some suggestions by opening a new issue in those repos, respectively </h4>
 </div>
   
 ---
