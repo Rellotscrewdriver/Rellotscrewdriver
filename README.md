@@ -51,7 +51,7 @@
 	
 </table>
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rellotscrewdriver&theme=synthwave"> -->
-  <p align="left">**NOTE** : the above data (especially Most Used Languages) does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github</p>
+  <p align="left"><b><i>NOTE</i></b> : the above data (especially Most Used Languages) does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github</p>
    
 </div>
 
