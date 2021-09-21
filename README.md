@@ -90,7 +90,7 @@
           <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rellotscrewdriver/Math-Loop-Quiz-Program?style=flat-square" /></td>
       </tr>
 </tbody>
-
+<!--
 <tbody>
       <tr>   
         <td><a href="https://github.com/Rellotscrewdriver/Step-Operation"><b>S. Step Operation(early stage)</b></a></td>
@@ -110,7 +110,7 @@
           <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rellotscrewdriver/MCQ-Generator?style=flat-square" /></td>
       </tr>
 </tbody>
-	
+-->
 </table>
   
 <h4>If you are looking eyes to contribute my project then check out these repositories, you can improve my bad code. <br /> if none of those interests you, can give me some suggestions by opening a new issue in those repos, respectively </h4>
