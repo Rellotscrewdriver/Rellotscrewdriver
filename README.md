@@ -3,7 +3,7 @@
 - I’m self-learning to make 2D games
 - I'm looking for a little collaboration and contribution this year because I suck at it
 - I’m currently working on 2D beat 'em up game, not sure when It's gonna be looking good
-- 2021 Resolution: Contribute some more to Open Source projects
+- 2021 Resolution: Contribute to some more to Open Source projects
 - 2022 Resolution: participate in Gamejams, where people make games within a time limit with a specificed theme
 - Fun fact: I like retro stuff and the 80s nostalgia (Thanks to Vice City) even though I was never born in that era
 
@@ -51,7 +51,7 @@
 	
 </table>
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rellotscrewdriver&theme=synthwave"> -->
-  <p align="left"><b><i>NOTE</i></b> : the above data (especially Most Used Languages) does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github</p>
+  <p align="left"><b><i>NOTE</i></b> : the above data (especially Most Used Languages) does not indicate my skill level or anything like that, it's a github metric of which languages i have the most code on github</p>
    
 </div>
 
