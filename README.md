@@ -9,50 +9,25 @@
 
 ---
 
-<table style="width:100%" align="center">
-  <caption><h2 align="center">My Skillset</caption>
-    
-  <tr>
-    <th>Languages</th>
-    <th>Version Control</th>
-    <th>Tools</th>
-    <th>Game Engine</th>
-  </tr>
-    
-  <tr>
-    <td><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /></td>
-  </tr>
-    
-  <tr>
-    <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></td>
-  </tr>
-    
-  <tr>
-    <td><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></td>
-  </tr>
-    
-</table>
+<div align="center">
+<h2 align="center">My Skillset</h2>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />    
+</div>
 
 ---
   
 <div align="center">
-
-<table style="width:100%;">
-	<caption><h2>My GitHub Stats</h2></caption>
-  <tr>
-  	<th style="border: none;"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rellotscrewdriver&count_private=true&theme=synthwave&show_icons=true&custom_title=Rellot's Github Stats"/></th>
-    <th style="border: none;"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rellotscrewdriver&layout=compact&theme=synthwave" /></th>
-	
-  </tr>
-	
-</table>
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rellotscrewdriver&theme=synthwave"> -->
+<h2>My GitHub Stats</h2>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rellotscrewdriver&count_private=true&theme=synthwave&show_icons=true&custom_title=Rellot's Github Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rellotscrewdriver&layout=compact&theme=synthwave" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rellotscrewdriver&theme=synthwave">
   <p align="left"><b><i>NOTE</i></b> : the above data (especially Most Used Languages) does not indicate my skill level or anything like that, it's a github metric of which languages i have the most code on github</p>
-   
 </div>
 
 ---
