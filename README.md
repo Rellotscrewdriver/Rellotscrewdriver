@@ -3,8 +3,8 @@
 - I’m self-learning to make 2D games
 - I'm looking for a little collaboration and contribution this year because I suck at it
 - I’m currently working on 2D beat 'em up game, not sure when It's gonna be looking good
-- 2021 Resolution: Contribute to some more to Open Source projects
-- 2022 Resolution: participate in Gamejams, where people make games within a time limit with a specificed theme
+- 2022 Resolution: I first complete my projects and then work on other people's projects
+- 2023 Resolution: learn unity and participate in Gamejams, where people make games within a time limit with a specificed theme
 - Fun fact: I like retro stuff and the 80s nostalgia (Thanks to Vice City) even though I was never born in that era
 
 ---
@@ -24,9 +24,9 @@
   
 <div align="center">
 <h2>My GitHub Stats</h2>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rellotscrewdriver&count_private=true&theme=synthwave&show_icons=true&custom_title=Rellot's Github Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rellotscrewdriver&layout=compact&theme=synthwave" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rellotscrewdriver&theme=synthwave">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rellotscrewdriver&count_private=true&theme=synthwave&show_icons=true&custom_title=Rellot's Github Stats" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rellotscrewdriver&layout=compact&theme=synthwave" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rellotscrewdriver&theme=synthwave">
   <p align="left"><b><i>NOTE</i></b> : the above data (especially Most Used Languages) does not indicate my skill level or anything like that, it's a github metric of which languages i have the most code on github</p>
 </div>
 
