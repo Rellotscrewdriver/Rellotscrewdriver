@@ -30,7 +30,7 @@
 <h2>My GitHub Stats</h2>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rellotscrewdriver&count_private=true&theme=synthwave&show_icons=true&custom_title=Rellot's Github Stats" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rellotscrewdriver&layout=compact&theme=synthwave" />
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rellotscrewdriver&theme=synthwave">
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rellotscrewdriver&theme=vue" />
   <p align="left"><b><i>NOTE</i></b> : the above data (especially Most Used Languages) does not indicate my skill level or anything like that, it's a github metric of which languages i have the most code on github</p>
 </div>
 
