@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Rellot and I like to screw people. so screw you</h2>
 
 - I’m self-learning to make 2D games
-- I'm looking for a little collaboration and contribution this year because I suck at it
+- I'm looking for a little collaboration and contribution because I suck at it
 - I’m currently working on 2D beat 'em up game, not sure when It's gonna be looking good
 - 2022 Resolution: I first complete my projects and then work on other people's projects
 - 2023 Resolution: learn unity and participate in Gamejams, where people make games within a time limit with a specificed theme
@@ -11,17 +11,17 @@
 
 <div align="center">
 <h2 align="center">My Skillset</h2>
-<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />    
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&color=black&logoColor=deeppink" />
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&color=black&logoColor=deeppink" />
+<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&color=black&logoColor=deeppink" />
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&color=black&logoColor=deeppink" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&color=black&logoColor=deeppink" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=black&logoColor=deeppink" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=black&logoColor=deeppink" />
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&color=black&logoColor=deeppink" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&color=black&logoColor=deeppink" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&color=black&logoColor=deeppink" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&color=black&logoColor=deeppink" />    
 </div>
 
 ---
@@ -30,7 +30,6 @@
 <h2>My GitHub Stats</h2>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rellotscrewdriver&count_private=true&theme=synthwave&show_icons=true&custom_title=Rellot's Github Stats" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rellotscrewdriver&layout=compact&theme=synthwave" />
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rellotscrewdriver&theme=vue" />
   <p align="left"><b><i>NOTE</i></b> : the above data (especially Most Used Languages) does not indicate my skill level or anything like that, it's a github metric of which languages i have the most code on github</p>
 </div>
 
@@ -101,15 +100,15 @@
   <h2>Contact Information</h2>
   
   <a href= "https://discord.com/users/481829350749110293">
-    <img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&color=black&logoColor=deeppink"/>
   </a>
   
   <a href= "https://stackoverflow.com/users/13572188/rellots-screwdriver">
-    <img src= "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+    <img src= "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&color=black&logoColor=deeppink"/>
   </a>
   
   <a href="https://rellotscrewdriver.itch.io">                                           
-    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&color=black&logoColor=deeppink" />
   </a>
   
 </div>
