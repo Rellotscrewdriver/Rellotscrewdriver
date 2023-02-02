@@ -1,11 +1,14 @@
 <h1 align="center">Hey there! I'm Rellot and I like to screw people. so screw you</h1>
+<p>just kidding, don't go away!</p>
 
-- I’m self-learning to make 2D games
-- I'm looking for a little collaboration and contribution because I suck at it
-- I’m currently working on 2D beat 'em up game, not sure when It's gonna be looking good
-- 2022 Resolution: I first complete my projects and then work on other people's projects
-- 2023 Resolution: learn unity and participate in Gamejams, where people make games within a time limit with a specificed theme
-- Fun fact: I like retro stuff and the 80s nostalgia (Thanks to Vice City) even though I was never born in that era
+- I’m self-learning to make 2D games and native applications
+- I'm looking for a little collaboration and contribution because I suck at it currently
+- I’m secretly working on 2D beat 'em up game
+- 2023 Resolution: 
+	- Configure Neovim and use it as my new IDE.
+	- Learn Linux, OOP etc.
+- Fun fact: This new theme is inspired by the [neon art style](https://en.wikipedia.org/wiki/Miami#Culture_2) which was popularized by [Miami Vice](https://en.wikipedia.org/wiki/Miami_Vice), first aired in 1984(about 40 years ago!).
+so hopefully people won't get confused by a band named [blackpink](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
 
 ---
 
