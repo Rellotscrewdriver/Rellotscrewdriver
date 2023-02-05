@@ -13,40 +13,40 @@ so hopefully people won't get confused by a band named [blackpink](https://www.y
 <div align="left">
 <h2 align="center">My Skillset</h2>
 
-Programming Langauges:
+#### Programming Langauges:
 
 [![C-lang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=black&logoColor=deeppink)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&color=black&logoColor=deeppink)](https://https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&color=black&logoColor=deeppink)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&color=black&logoColor=deeppink)](python.org)
 
-Version Control:
+#### Version Control:
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=black&logoColor=deeppink)](https://git-scm.com/)
 [![LazyGit](https://img.shields.io/badge/LazyGit-F05032?style=for-the-badge&color=black&logoColor=deeppink)](https://git-scm.com/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&color=black&logoColor=deeppink)](https://github.com)
 
-Build Systems:
+#### Build Systems:
 
 [![Ninja](https://img.shields.io/badge/ninja-3670A0?style=for-the-badge&color=black&logolabel=deeppink)]()
 [![GNU Make](https://img.shields.io/badge/make-3670A0?style=for-the-badge&color=black&logolabel=deeppink)]()
 [![Cmake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&color=black&logoColor=deeppink)](cmake.org)
 
-Frameworks:
+#### Frameworks:
 
 [![SFML](https://img.shields.io/badge/SFML-3670A0?style=for-the-badge&color=black&logolabel=deeppink)]()
 [![WxWidgets](https://img.shields.io/badge/WxWidgets-3670A0?style=for-the-badge&color=black&logolabel=deeppink)]()
 
-Debugging:
+#### Debugging:
 
 [![GDB](https://img.shields.io/badge/GDB-F05032?style=for-the-badge&color=black&logoColor=deeppink)](https://git-scm.com/)
 
-Text Editors:
+#### Text Editors:
 
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&color=black&logoColor=deeppink)](https://neovim.io/)
 [![Sublime Text 4](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&color=black&logoColor=deeppink)](https://www.sublimetext.com/)
 
-Operating System:
+#### Operating System:
 
 [![Windows](https://img.shields.io/badge/Windows%207-0078D6?style=for-the-badge&logo=windowsxp&color=black&logoColor=deeppink)](windows.org)	
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&color=black&logoColor=deeppink)](fedora.org)
