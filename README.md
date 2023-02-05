@@ -9,9 +9,7 @@
 	- Learn Linux, OOP etc.
 - Fun fact: This new theme is inspired by the [neon art style](https://en.wikipedia.org/wiki/Miami#Culture_2) which was popularized by [Miami Vice](https://en.wikipedia.org/wiki/Miami_Vice), first aired in 1984(about 40 years ago!).
 so hopefully people won't get confused by a band named [blackpink](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
-
 ---
-
 <div align="left">
 <h2 align="center">My Skillset</h2>
 
@@ -25,7 +23,7 @@ Programming Langauges:
 Version Control:
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=black&logoColor=deeppink)](https://git-scm.com/)
-[![LazyGit](https://img.shields.io/badge/LazyGit-F05032?style=for-the-badge&logo=git&color=black&logoColor=deeppink)](https://git-scm.com/)
+[![LazyGit](https://img.shields.io/badge/LazyGit-F05032?style=for-the-badge&color=black&logoColor=deeppink)](https://git-scm.com/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&color=black&logoColor=deeppink)](https://github.com)
 
 Build Systems:
@@ -41,7 +39,7 @@ Frameworks:
 
 Debugging:
 
-[![GDB](https://img.shields.io/badge/GDB-F05032?style=for-the-badge&logo=git&color=black&logoColor=deeppink)](https://git-scm.com/)
+[![GDB](https://img.shields.io/badge/GDB-F05032?style=for-the-badge&color=black&logoColor=deeppink)](https://git-scm.com/)
 
 Text Editors:
 
@@ -50,7 +48,7 @@ Text Editors:
 
 Operating System:
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windowsxp&color=black&logoColor=deeppink)](windows.org)	
+[![Windows](https://img.shields.io/badge/Windows%207-0078D6?style=for-the-badge&logo=windowsxp&color=black&logoColor=deeppink)](windows.org)	
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&color=black&logoColor=deeppink)](fedora.org)
 
 
@@ -132,17 +130,10 @@ Operating System:
   
 <div align = "center">
   <h2>Contact Information</h2>
-  
-  <a href= "https://discord.com/users/481829350749110293">
-    <img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&color=black&logoColor=deeppink"/>
-  </a>
-  
-  <a href="https://rellotscrewdriver.itch.io">                                           
-    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&color=black&logoColor=deeppink" />
-  </a>
-  
-  <a href= "https://stackoverflow.com/users/13572188/rellots-screwdriver">
-    <img src= "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&color=black&logoColor=deeppink"/>
-  </a>
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&color=black&logoColor=deeppink)](https://discord.com/users/481829350749110293)
+[![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&color=black&logoColor=deeppink)](https://rellotscrewdriver.itch.io)
+[![SO](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&color=black&logoColor=deeppink)](https://stackoverflow.com/users/13572188/rellots-screwdriver)
+
 </div>
 
