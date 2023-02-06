@@ -1,4 +1,5 @@
-<h1 align="center">Hey there! I'm Rellot and I like to screw people. so screw you</h1>
+<h1 align="center">Hey there! I'm Rellot
+<br /><h2>I like to screw people. so screw you</h2></h1>
 <p>just kidding, don't go away!</p>
 
 - I’m self-learning to make 2D games and native applications
@@ -54,16 +55,17 @@ so hopefully people won't get confused by a band named [blackpink](https://www.y
 
 
 ---
-  
+<details><summary><strong>Click to see my current profile status</strong></summary>
 <div align="center">
 <h2>My GitHub Stats</h2>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rellotscrewdriver&count_private=true&theme=synthwave&show_icons=true&custom_title=Rellot's Github Stats" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rellotscrewdriver&layout=compact&theme=synthwave" />
+<img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=Rellotscrewdriver&count_private=true&show_icons=true&custom_title=Rellot%27s%20Github%20Stats&theme=transparent&text_color=ff1493&icon_color=ffffff&title_color=ff1493&hide_border=true" />
+<img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rellotscrewdriver&layout=compact&theme=transparent&text_color=ff1493&title_color=ff1493&card_width=250&hide_border=true" />
 <a>
-<img height="295em" src="https://github-readme-activity-graph.cyclic.app/graph?username=rellotscrewdriver&hide_border=true&theme=one-dark"" />
+<img height="295em" src="https://github-readme-activity-graph.cyclic.app/graph?username=rellotscrewdriver&hide_border=true&bg_color=00000&color=ff1493&point=ff1493" />
 </a>
   <p align="left"><b><i>NOTE</i></b> : the above data (especially Most Used Languages) does not indicate my skill level or anything like that, it's a github metric of which languages i have the most code on github</p>
 </div>
+</details>
 
 ---
   
