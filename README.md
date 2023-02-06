@@ -11,6 +11,8 @@
 - Fun fact: This new theme is inspired by the [neon art style](https://en.wikipedia.org/wiki/Miami#Culture_2) which was popularized by [Miami Vice](https://en.wikipedia.org/wiki/Miami_Vice), first aired in 1984(about 40 years ago!).
 so hopefully people won't get confused by a band named [blackpink](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
 ---
+
+<details><summary><b>My Skillset</b></summary>
 <div align="left">
 <h2 align="center">My Skillset</h2>
 
@@ -51,11 +53,11 @@ so hopefully people won't get confused by a band named [blackpink](https://www.y
 
 [![Windows](https://img.shields.io/badge/Windows%207-0078D6?style=for-the-badge&logo=windowsxp&color=black&logoColor=deeppink)](https://en.wikipedia.org/wiki/Windows_7)	
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&color=black&logoColor=deeppink)](https://getfedora.org/)
-
+</details>
 
 
 ---
-<details><summary><strong>Click to see my current profile status</strong></summary>
+<details><summary><b>Click to see my current profile status</b></summary>
 <div align="center">
 <h2>My GitHub Stats</h2>
 <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=Rellotscrewdriver&count_private=true&show_icons=true&custom_title=Rellot%27s%20Github%20Stats&theme=transparent&text_color=ff1493&icon_color=ffffff&title_color=ff1493&hide_border=true" />
