@@ -70,7 +70,7 @@ just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a
 <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=Rellotscrewdriver&count_private=true&show_icons=true&custom_title=Rellot%27s%20Github%20Stats&theme=transparent&text_color=ff1493&icon_color=ffffff&title_color=ff1493&hide_border=true" />
 <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rellotscrewdriver&layout=compact&theme=transparent&text_color=ff1493&title_color=ff1493&card_width=250&hide_border=true" />
 <a>
-<img height="295em" src="https://github-readme-activity-graph.cyclic.app/graph?username=rellotscrewdriver&hide_border=true&bg_color=00000&color=ff1493&point=ff1493" />
+<img height="295em" src="https://github-readme-activity-graph.cyclic.app/graph?username=rellotscrewdriver&hide_border=true&bg_color=00000&color=ff1493&point=ff1493&custom_title=Rellot's%20Contribution%20Graph" />
 </a>
   <p align="left"><b><i>NOTE</i></b> : the above data (especially Most Used Languages) does not indicate my skill level or anything like that, it's a github metric of which languages i have the most code on github</p>
 </div>
