@@ -42,6 +42,15 @@ just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a
 
 [![GDB](https://img.shields.io/badge/GDB-F05032?style=for-the-badge&color=black&logoColor=deeppink)](https://www.sourceware.org/gdb/)
 
+#### Compliers:
+
+[![GCC](https://img.shields.io/badge/gcc-F05032?style=for-the-badge&color=black&logoColor=deeppink)](https://gcc.gnu.org/)
+[![Clang](https://img.shields.io/badge/clang-F05032?style=for-the-badge&color=black&logoColor=deeppink)](https://clang.llvm.org/)
+
+#### Documentation Generator:
+
+[![Doxygen](https://img.shields.io/badge/doxygen-F05032?style=for-the-badge&color=black&logoColor=deeppink)](https://www.doxygen.nl/)
+
 #### Text Editors:
 
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&color=black&logoColor=deeppink)](https://neovim.io/)
