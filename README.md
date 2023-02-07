@@ -1,15 +1,15 @@
-<h1 align="center">Hey there! I'm Rellot
-<br /><h2>I like to screw people. so screw you</h2></h1>
-<p>just kidding, don't go away!</p>
+<h1 align="center">Hey there! I'm a screwdriver</h1>
+<h2>ready to screw your brains over and over again till eternity! :D</h2>
+just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a "Robot"
 
-- I’m self-learning to make 2D games and native applications
-- I'm looking for a little collaboration and contribution because I suck at it currently
-- I’m secretly working on 2D beat 'em up game
-- 2023 Resolution: 
-	- Configure Neovim and use it as my new IDE.
-	- Learn Linux, OOP etc.
-- Fun fact: This new theme is inspired by the [neon art style](https://en.wikipedia.org/wiki/Miami#Culture_2) which was popularized by [Miami Vice](https://en.wikipedia.org/wiki/Miami_Vice), first aired in 1984(about 40 years ago!).
-so hopefully people won't get confused by a band named [blackpink](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
+- I'm aiming to make small indie games with other people or solo
+- I'm looking for a little collaboration because I suck at it currently
+- I'm secretly working on 2D beat 'em up game(dunno when I announce it)
+- Possible 2023 Resolution: 
+	- Fully Configure Neovim and use it as my daily driver.
+	- Learn Linux, C++ OOP, SQL Database etc. etc.
+- Fun fact: This new theme is inspired by the [neon art deco](https://en.wikipedia.org/wiki/Miami#Culture_2) which was popularized by [Miami Vice](https://en.wikipedia.org/wiki/Miami_Vice), a cops show with a sense of style and story-telling through music, first aired in 1984(about 40 years ago!).
+<br />hopefully people won't get confused the theme inspiration by [blackpink](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
 ---
 
 <details><summary><b>My Skillset</b></summary>
