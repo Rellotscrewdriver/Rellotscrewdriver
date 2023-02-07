@@ -18,8 +18,6 @@ just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a
 
 #### Programming Langauges:
 
-[![C-lang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=black&logoColor=deeppink)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&color=black&logoColor=deeppink)](https://https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&color=black&logoColor=deeppink)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&color=black&logoColor=deeppink)](https://www.python.org/)
 
