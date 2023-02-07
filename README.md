@@ -70,64 +70,18 @@ so hopefully people won't get confused by a band named [blackpink](https://www.y
 </details>
 
 ---
-  
-<div class="Look for contribution" align="center">
-  <h2>Looking for contribution?</h2>
-  
-<table style="width:100%">
-<thead>
-      <tr>
-        <th><b>Projects</b></th>
-        <th><b>Stars</b></th>
-        <th><b>Forks</b></th>
-        <th><b>Issues</b></th>
-        <th><b>Pull Requests</b></th>
-      </tr>
-</thead>
-  
-<tbody>
-      <tr>
-	      <td><a href="https://github.com/Rellotscrewdriver/Digital-Measurement-Calculator"><b>D.I.C</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/Rellotscrewdriver/Digital-Measurement-Calculator?style=flat-square&labelColor=black"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/Rellotscrewdriver/Digital-Measurement-Calculator?style=flat-square&labelColor=black"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/Rellotscrewdriver/Digital-Measurement-Calculator?style=flat-square&labelColor=black"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rellotscrewdriver/Digital-Measurement-Calculator?style=flat-square&labelColor=black"/></td>
-      </tr>
-</tbody>
-  
-<tbody>  
-      <tr>   
-        <td><a href="https://github.com/Rellotscrewdriver/Math-Loop-Quiz-Program"><b>Math-Quiz</b></a></td>
-          <td><img alt="Stars" src="https://img.shields.io/github/stars/Rellotscrewdriver/Math-Loop-Quiz-Program?style=flat-square&labelColor=black"/></td>
-          <td><img alt="Forks" src="https://img.shields.io/github/forks/Rellotscrewdriver/Math-Loop-Quiz-Program?style=flat-square&labelColor=black"/></td>
-          <td><img alt="Issues" src="https://img.shields.io/github/issues/Rellotscrewdriver/Math-Loop-Quiz-Program?style=flat-square&labelColor=black"/></td>
-          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rellotscrewdriver/Math-Loop-Quiz-Program?style=flat-square&labelColor=black" /></td>
-      </tr>
-</tbody>
-<!--
-<tbody>
-      <tr>   
-        <td><a href="https://github.com/Rellotscrewdriver/Step-Operation"><b>S. Step Operation(early stage)</b></a></td>
-          <td><img alt="Stars" src="https://img.shields.io/github/stars/Rellotscrewdriver/Step-Operation?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Forks" src="https://img.shields.io/github/forks/Rellotscrewdriver/Step-Operation?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Issues" src="https://img.shields.io/github/issues/Rellotscrewdriver/Step-Operation?style=flat-square"/></td>
-          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rellotscrewdriver/Step-Operation?style=flat-square" /></td>
-      </tr>
-</tbody>
-	
-<tbody>
-      <tr>   
-        <td><a href="https://github.com/Rellotscrewdriver/MCQ-Generator"><b>MCQ Praser(early stage)</b></a></td>
-          <td><img alt="Stars" src="https://img.shields.io/github/stars/Rellotscrewdriver/MCQ-Generator?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Forks" src="https://img.shields.io/github/forks/Rellotscrewdriver/MCQ-Generator?style=flat-square&labelColor=343b41"/></td>
-          <td><img alt="Issues" src="https://img.shields.io/github/issues/Rellotscrewdriver/MCQ-Generator?style=flat-square"/></td>
-          <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rellotscrewdriver/MCQ-Generator?style=flat-square" /></td>
-      </tr>
-</tbody>
--->
-</table>
-  
-<h4>If you are looking eyes to contribute my project then check out these repositories, you can improve my bad code. <br /> if none of those interests you, can give me some suggestions by opening a new issue in those repos, respectively </h4>
+
+<h2 align="center">Looking for contribution?</h2>
+
+<div align = "center">
+
+![DIC](https://github-readme-stats.vercel.app/api/pin/?username=rellotscrewdriver&repo=Digital-Measurement-Calculator&theme=transparent&text_color=ff1493&icon_color=ffffff&title_color=ff1493)
+![Math-Loop](https://github-readme-stats.vercel.app/api/pin/?username=rellotscrewdriver&repo=Math-Loop-Quiz-Program&theme=transparent&text_color=ff1493&icon_color=ffffff&title_color=ff1493)
+
+</div>
+
+<h4>If you are looking eyes to contribute my project then check out these top repositories, you can help by improving my code. <br />Or if you don't want to, can give me some suggestions by opening a new issue. your help is always appreciated
+</h4>
 </div>
   
 ---
