@@ -16,7 +16,7 @@ just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a
 <div align="left">
 <h2 align="center">My Skillset</h2>
 
-#### Programming Langauges:
+#### Programming Languages:
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&color=black&logoColor=deeppink)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&color=black&logoColor=deeppink)](https://www.python.org/)
@@ -42,7 +42,7 @@ just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a
 
 [![GDB](https://img.shields.io/badge/GDB-F05032?style=for-the-badge&color=black&logoColor=deeppink)](https://www.sourceware.org/gdb/)
 
-#### Compliers:
+#### Compilers:
 
 [![GCC](https://img.shields.io/badge/gcc-F05032?style=for-the-badge&color=black&logoColor=deeppink)](https://gcc.gnu.org/)
 [![Clang](https://img.shields.io/badge/clang-F05032?style=for-the-badge&color=black&logoColor=deeppink)](https://clang.llvm.org/)
