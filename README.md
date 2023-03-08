@@ -7,9 +7,9 @@ just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a
 - I'm secretly working on 2D beat 'em up game(dunno when I announce it)
 - Possible 2023 Resolution: 
 	- Fully Configure Neovim and use it as my daily driver.
-	- Learn Linux, C++ OOP, SQL Database etc. etc.
-- Fun fact: This new theme is inspired by the [neon art deco](https://en.wikipedia.org/wiki/Miami#Culture_2) which was popularized by [Miami Vice](https://en.wikipedia.org/wiki/Miami_Vice), a cops show with a sense of style and story-telling through music, first aired in 1984(about 40 years ago!).
-<br />hopefully people won't get confused the theme inspiration by [blackpink](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
+	- Learn Linux, C++ OOP, SQL etc. etc.
+- Fun fact: This new theme is inspired by the [neon art deco](https://en.wikipedia.org/wiki/Miami#Culture_2) which was popularized by [Miami Vice](https://en.wikipedia.org/wiki/Miami_Vice), probably the only cops show with a sense of style and story-telling through music, aired between 1984-1990
+<br />so hopefully people won't get confused by it's theme taken from [blackpink](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
 ---
 
 <details><summary><b>My Skillset</b></summary>
