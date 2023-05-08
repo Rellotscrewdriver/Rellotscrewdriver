@@ -54,12 +54,12 @@ just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a
 #### Text Editors:
 
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&color=black&logoColor=deeppink)](https://neovim.io/)
-[![Sublime Text 4](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&color=black&logoColor=deeppink)](https://www.sublimetext.com/)
+
 
 #### Operating System:
 
 [![Windows](https://img.shields.io/badge/Windows%207-0078D6?style=for-the-badge&logo=windowsxp&color=black&logoColor=deeppink)](https://en.wikipedia.org/wiki/Windows_7)	
-[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&color=black&logoColor=deeppink)](https://getfedora.org/)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&color=black&logoColor=deeppink)](https://archlinux.org/)
 </details>
 
 
