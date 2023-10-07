@@ -1,4 +1,6 @@
-<h1 align="center">Hey there! I'm a screwdriver</h1>
+<img src="./Assets/logo.png">
+
+<h1 align="center">Hi there! I'm a screwdriver</h1>
 <h2>ready to screw your brains over and over again till eternity! :D</h2>
 just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a "Robot"
 
@@ -18,48 +20,48 @@ just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a
 
 #### Programming Languages:
 
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&color=black&logoColor=deeppink)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&color=black&logoColor=deeppink)](https://www.python.org/)
+<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="./Assets/cpp.png"></a>
+<a href="https://www.python.org/"><img src="./Assets/py.png"></a>
 
 #### Version Control:
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=black&logoColor=deeppink)](https://git-scm.com/)
-[![LazyGit](https://img.shields.io/badge/LazyGit-F05032?style=for-the-badge&color=black&logoColor=deeppink)](https://github.com/jesseduffield/lazygit)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&color=black&logoColor=deeppink)](https://github.com)
+<a href="https://git-scm.com/"><img src="./Assets/git.png"></a>
+<a href="https://github.com/jesseduffield/lazygit"><img src="./Assets/lazyg.png"></a>
+<a href="https://github.com"><img src="./Assets/ghub.png"></a>
 
 #### Build Systems:
 
-[![Ninja](https://img.shields.io/badge/ninja-3670A0?style=for-the-badge&color=black&logolabel=deeppink)](https://ninja-build.org/)
-[![GNU Make](https://img.shields.io/badge/make-3670A0?style=for-the-badge&color=black&logolabel=deeppink)](https://www.gnu.org/software/make/)
-[![Cmake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&color=black&logoColor=deeppink)](https://www.cmake.org)
+<a href="https://ninja-build.org/"><img src="./Assets/ninja.png"></a>
+<a href="https://www.gnu.org/software/make/"><img src="./Assets/make.png"></a>
+<a href="https://www.cmake.org"><img src="./Assets/cmake.png"></a>
 
 #### Frameworks:
 
-[![SFML](https://img.shields.io/badge/SFML-3670A0?style=for-the-badge&color=black&logolabel=deeppink)](https://www.sfml-dev.org/)
-[![WxWidgets](https://img.shields.io/badge/WxWidgets-3670A0?style=for-the-badge&color=black&logolabel=deeppink)](https://www.wxwidgets.org/)
+<a href="https://www.sfml-dev.org/"><img src="./Assets/sfml.png"></a>
+<a href="https://www.wxwidgets.org/"><img src="./Assets/wx.png"></a>
 
 #### Debugging:
 
-[![GDB](https://img.shields.io/badge/GDB-F05032?style=for-the-badge&color=black&logoColor=deeppink)](https://www.sourceware.org/gdb/)
+<a href="https://www.sourceware.org/gdb/"><img src="./Assets/gdb.png"></a>
 
 #### Compilers:
 
-[![GCC](https://img.shields.io/badge/gcc-F05032?style=for-the-badge&color=black&logoColor=deeppink)](https://gcc.gnu.org/)
-[![Clang](https://img.shields.io/badge/clang-F05032?style=for-the-badge&color=black&logoColor=deeppink)](https://clang.llvm.org/)
+<a href="https://gcc.gnu.org/"><img src="./Assets/gcc.png"></a>
+<a href="https://clang.llvm.org/"><img src="./Assets/clang.png"></a>
 
 #### Documentation Generator:
 
-[![Doxygen](https://img.shields.io/badge/doxygen-F05032?style=for-the-badge&color=black&logoColor=deeppink)](https://www.doxygen.nl/)
+<a href="https://clang.llvm.org/"><img src="./Assets/doxide.png"></a>
 
 #### Text Editors:
 
-[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&color=black&logoColor=deeppink)](https://neovim.io/)
-
+<a href="https://clang.llvm.org/"><img src="./Assets/nvim.png"></a>
 
 #### Operating System:
 
-[![Windows](https://img.shields.io/badge/Windows%207-0078D6?style=for-the-badge&logo=windowsxp&color=black&logoColor=deeppink)](https://en.wikipedia.org/wiki/Windows_7)	
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&color=black&logoColor=deeppink)](https://archlinux.org/)
+<a href="https://clang.llvm.org/"><img src="./Assets/win7.png"></a>
+<a href="https://clang.llvm.org/"><img src="./Assets/arch.png"></a>
+
 </details>
 
 
