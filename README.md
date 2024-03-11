@@ -1,5 +1,3 @@
-<img src="./Assets/logo.png">
-
 <h1 align="center">Hey there! I'm a screwdriver</h1>
 <h2>ready to screw your brains over and over again till eternity! :D</h2>
 just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a "Robot"
