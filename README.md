@@ -34,17 +34,13 @@ just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a
 <a href="https://www.gnu.org/software/make/"><img src="./Assets/make.png"></a>
 <a href="https://www.cmake.org"><img src="./Assets/cmake.png"></a>
 
-#### Frameworks:
+#### Frameworks & Tools:
 
 <a href="https://www.sfml-dev.org/"><img src="./Assets/sfml.png"></a>
 <a href="https://www.wxwidgets.org/"><img src="./Assets/wx.png"></a>
-
-#### Debugging:
-
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=ff1493&color=black)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=ff1493&color=black)
 <a href="https://www.sourceware.org/gdb/"><img src="./Assets/gdb.png"></a>
-
-#### Compilers:
-
 <a href="https://gcc.gnu.org/"><img src="./Assets/gcc.png"></a>
 <a href="https://clang.llvm.org/"><img src="./Assets/clang.png"></a>
 
@@ -55,11 +51,12 @@ just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a
 #### Text Editors:
 
 <a href="https://clang.llvm.org/"><img src="./Assets/nvim.png"></a>
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ff1493&color=black)
 
 #### Operating System:
 
-<a href="https://clang.llvm.org/"><img src="./Assets/win7.png"></a>
-<a href="https://clang.llvm.org/"><img src="./Assets/arch.png"></a>
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=ff1493&color=black)
+
 
 </details>
 
