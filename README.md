@@ -80,8 +80,8 @@ just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a
 
 <div align = "center">
 
-[![DIC](https://github-readme-stats.vercel.app/api/pin/?username=rellotscrewdriver&repo=Digital-Measurement-Calculator&theme=transparent&text_color=ff1493&icon_color=ffffff&title_color=ff1493)](https://github.com/Rellotscrewdriver/Digital-Measurement-Calculator)
-[![Nvim-Config](https://github-readme-stats.vercel.app/api/pin/?username=rellotscrewdriver&repo=nvim&theme=transparent&text_color=ff1493&icon_color=ffffff&title_color=ff1493)](https://github.com/Rellotscrewdriver/neovim_config)
+[![DIC](https://github-readme-stats.vercel.app/api/pin/?username=rellotscrewdriver&repo=periodfiles&theme=transparent&text_color=ff1493&icon_color=ffffff&title_color=ff1493)](https://github.com/Rellotscrewdriver/Digital-Measurement-Calculator)
+[![Nvim-Config](https://github-readme-stats.vercel.app/api/pin/?username=rellotscrewdriver&repo=my-project-template&theme=transparent&text_color=ff1493&icon_color=ffffff&title_color=ff1493)](https://github.com/Rellotscrewdriver/neovim_config)
 
 </div>
 
