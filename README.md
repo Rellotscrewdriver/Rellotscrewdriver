@@ -5,11 +5,11 @@ just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a
 - I'm aiming to make small indie games with other people or solo
 - I'm looking for a little collaboration because I suck at it currently
 - I'm secretly working on 2D beat 'em up game(dunno when I announce it)
-- Possible 2024 Resolution: 
+- Possible 2025 Resolution(last year I failed to complete it so I have same goals): 
 	- Learn Godot
 	- Learn C++ and its various tools
-  - Complete 100 days of code challenge
-  Fun fact: This new theme is inspired by the [neon art deco](https://en.wikipedia.org/wiki/Miami#Culture_2) which was popularized by [Miami Vice](https://en.wikipedia.org/wiki/Miami_Vice), probably the only cops show with a sense of style and story-telling through music, aired between 1984-1990
+  - Complete 100 days of code challenge again
+  Fun fact: This theme is inspired by the [neon art deco](https://en.wikipedia.org/wiki/Miami#Culture_2) which was popularized by [Miami Vice](https://en.wikipedia.org/wiki/Miami_Vice), probably the only cops show with a sense of style and story-telling through music, aired between 1984-1990
 <br />so hopefully people won't get confused by it's theme taken from [blackpink](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
 ---
 
@@ -50,12 +50,11 @@ just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a
 
 #### Text Editors:
 
-[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ff1493&color=black)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=ff1493&color=black)](https://code.visualstudio.com/)
 
 #### Operating System:
 
-[![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=ff1493&color=black)](https://www.microsoft.com/software-download/windows11)
-
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%230079d5.svg?style=for-the-badge&logo=Arch%20Linux&logoColor=ff1493&color=black)](https://www.archlinux.org)
 
 </details>
 
@@ -77,14 +76,7 @@ just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a
 
 <h2 align="center">Looking for contribution?</h2>
 
-<div align = "center">
-
-[![DIC](https://github-readme-stats.vercel.app/api/pin/?username=rellotscrewdriver&repo=periodfiles&theme=transparent&text_color=ff1493&icon_color=ffffff&title_color=ff1493)](https://github.com/Rellotscrewdriver/periodfiles)
-[![Nvim-Config](https://github-readme-stats.vercel.app/api/pin/?username=rellotscrewdriver&repo=my-project-template&theme=transparent&text_color=ff1493&icon_color=ffffff&title_color=ff1493)](https://github.com/Rellotscrewdriver/my-project-template)
-
-</div>
-
-<h4>If you are looking eyes to contribute my project then check out these top repositories, you can help by improving my code. <br />Or if you don't want to, can give me some suggestions by opening a new issue. your help is always appreciated
+<h4>If you are looking eyes to contribute my project then check out the repo section on top and you can help me by improving my code. <br />Or if you don't want to, can give me some suggestions by opening a new issue. your help is always appreciated!!
 </h4>
 </div>
   
