@@ -16,9 +16,8 @@ just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a
 <div align="left">
 <h2 align="center">My Current Skillset</h2>
 
-| | |
-| :--- | :------ |
 | **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&color=grey) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&color=grey) ![Java](https://img.shields.io/badge/Java-00599C?style=for-the-badge&color=grey) ![Py](https://img.shields.io/badge/Python-00599C?style=for-the-badge&color=grey) |
+| :--- | :------ |
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-00599C?style=for-the-badge&color=grey) ![LazyGit](https://img.shields.io/badge/Lazygit-00599C?style=for-the-badge&color=grey) ![Github](https://img.shields.io/badge/GitHub-00599C?style=for-the-badge&color=grey) |
 | **Build System** |  ![Make](https://img.shields.io/badge/Make-00599C?style=for-the-badge&color=grey) ![Ninja](https://img.shields.io/badge/Ninja-00599C?style=for-the-badge&color=grey) ![Cmake](https://img.shields.io/badge/Cmake-00599C?style=for-the-badge&color=grey) |
 | **Frameworks** |  ![SFML](https://img.shields.io/badge/SFML-00599C?style=for-the-badge&color=grey) ![QT](https://img.shields.io/badge/QT-00599C?style=for-the-badge&color=grey) |
