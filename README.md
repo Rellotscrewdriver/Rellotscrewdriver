@@ -5,56 +5,28 @@ just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a
 - I'm aiming to make small indie games with other people or solo
 - I'm looking for a little collaboration because I suck at it currently
 - I'm secretly working on 2D beat 'em up game(dunno when I announce it)
-- Possible 2025 Resolution(last year I failed to complete it so I have same goals): 
-	- Learn Godot
-	- Learn C++ and its various tools
-  - Complete 100 days of code challenge again
-  Fun fact: This theme is inspired by the [neon art deco](https://en.wikipedia.org/wiki/Miami#Culture_2) which was popularized by [Miami Vice](https://en.wikipedia.org/wiki/Miami_Vice), probably the only cops show with a sense of style and story-telling through music, aired between 1984-1990
-<br />so hopefully people won't get confused by it's theme taken from [blackpink](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
+- 2026 Resolution 
+	- Learn Godot and make some few games.
+	- Learn QT and make few my own wishlisted apps.
+  Fun fact: This theme is inspired by the [neon art deco](https://en.wikipedia.org/wiki/Miami#Culture_2) which was popularized by [Miami Vice](https://en.wikipedia.org/wiki/Miami_Vice)
+
 ---
 
 <details><summary><b>My Skillset</b></summary>
 <div align="left">
-<h2 align="center">My Skillset</h2>
+<h2 align="center">My Current Skillset</h2>
 
-#### Programming Languages:
-
-<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="./Assets/cpp.png"></a>
-<a href="https://www.python.org/"><img src="./Assets/py.png"></a>
-
-#### Version Control:
-
-<a href="https://git-scm.com/"><img src="./Assets/git.png"></a>
-<a href="https://github.com/jesseduffield/lazygit"><img src="./Assets/lazyg.png"></a>
-<a href="https://github.com"><img src="./Assets/ghub.png"></a>
-
-#### Build Systems:
-
-<a href="https://ninja-build.org/"><img src="./Assets/ninja.png"></a>
-<a href="https://www.gnu.org/software/make/"><img src="./Assets/make.png"></a>
-<a href="https://www.cmake.org"><img src="./Assets/cmake.png"></a>
-
-#### Frameworks & Tools:
-
-<a href="https://www.sfml-dev.org/"><img src="./Assets/sfml.png"></a>
-<a href="https://www.wxwidgets.org/"><img src="./Assets/wx.png"></a>
-[![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=ff1493&color=black)](https://godotengine.org/)
-[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=ff1493&color=black)](https://github.com/features/actions)
-<a href="https://www.sourceware.org/gdb/"><img src="./Assets/gdb.png"></a>
-<a href="https://gcc.gnu.org/"><img src="./Assets/gcc.png"></a>
-<a href="https://clang.llvm.org/"><img src="./Assets/clang.png"></a>
-
-#### Documentation Generator:
-
-<a href="https://doxide.org/"><img src="./Assets/doxide.png"></a>
-
-#### Text Editors:
-
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=ff1493&color=black)](https://code.visualstudio.com/)
-
-#### Operating System:
-
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%230079d5.svg?style=for-the-badge&logo=Arch%20Linux&logoColor=ff1493&color=black)](https://www.archlinux.org)
+| | |
+| :--- | :------ |
+| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&color=grey) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&color=grey) ![Java](https://img.shields.io/badge/Java-00599C?style=for-the-badge&color=grey) ![Py](https://img.shields.io/badge/Python-00599C?style=for-the-badge&color=grey) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-00599C?style=for-the-badge&color=grey) ![LazyGit](https://img.shields.io/badge/Lazygit-00599C?style=for-the-badge&color=grey) ![Github](https://img.shields.io/badge/GitHub-00599C?style=for-the-badge&color=grey) |
+| **Build System** |  ![Make](https://img.shields.io/badge/Make-00599C?style=for-the-badge&color=grey) ![Ninja](https://img.shields.io/badge/Ninja-00599C?style=for-the-badge&color=grey) ![Cmake](https://img.shields.io/badge/Cmake-00599C?style=for-the-badge&color=grey) |
+| **Frameworks** |  ![SFML](https://img.shields.io/badge/SFML-00599C?style=for-the-badge&color=grey) ![QT](https://img.shields.io/badge/QT-00599C?style=for-the-badge&color=grey) |
+| **Debugging** |  ![GDB](https://img.shields.io/badge/GDB-00599C?style=for-the-badge&color=grey)  |
+| **Compilers** |  ![GCC](https://img.shields.io/badge/GCC-00599C?style=for-the-badge&color=grey) ![Clang](https://img.shields.io/badge/Clang-00599C?style=for-the-badge&color=grey) |
+| **Doc Generator** | ![Doxide](https://img.shields.io/badge/Doxide-00599C?style=for-the-badge&color=grey) |
+| **Text Editor** |  ![VScode](https://img.shields.io/badge/VScode-00599C?style=for-the-badge&color=grey) ![Neovim](https://img.shields.io/badge/Neovim-00599C?style=for-the-badge&color=grey) |
+| **Operating System** |  ![ArchLinux](https://img.shields.io/badge/ArchLinux-00599C?style=for-the-badge&color=grey) ![Win11](https://img.shields.io/badge/WIndows11-00599C?style=for-the-badge&color=grey) |
 
 </details>
 
