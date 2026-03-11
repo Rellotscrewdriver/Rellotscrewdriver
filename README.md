@@ -37,7 +37,7 @@ just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a
 <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=Rellotscrewdriver&count_private=true&show_icons=true&custom_title=Rellot%27s%20Github%20Stats&theme=00000000&text_color=ff1493&icon_color=ffffff&title_color=ff1493&hide_border=true" />
 <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rellotscrewdriver&layout=compact&theme=00000000&text_color=ff1493&title_color=ff1493&card_width=250&hide_border=true" />
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=rellotscrewdriver&hide_border=true&
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=rellotscrewdriver&hide_border=false&
 date_format=j%20M%5B%20Y%5D&background=00000000&sideLabels=67ADD3&currStreakLabel=80CCED" />
 </p>
 
