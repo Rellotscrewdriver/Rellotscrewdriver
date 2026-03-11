@@ -20,7 +20,7 @@ just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a
 | :--- | :------ |
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-00599C?style=for-the-badge&color=grey) ![LazyGit](https://img.shields.io/badge/Lazygit-00599C?style=for-the-badge&color=grey) ![Github](https://img.shields.io/badge/GitHub-00599C?style=for-the-badge&color=grey) |
 | **Build System** |  ![Make](https://img.shields.io/badge/Make-00599C?style=for-the-badge&color=grey) ![Ninja](https://img.shields.io/badge/Ninja-00599C?style=for-the-badge&color=grey) ![Cmake](https://img.shields.io/badge/Cmake-00599C?style=for-the-badge&color=grey) |
-| **Frameworks** |  ![SFML](https://img.shields.io/badge/SFML-00599C?style=for-the-badge&color=grey) ![QT](https://img.shields.io/badge/QT-00599C?style=for-the-badge&color=grey) |
+| **Frameworks** |  ![SFML](https://img.shields.io/badge/SFML-00599C?style=for-the-badge&color=grey) ![QT](https://img.shields.io/badge/QT-00599C?style=for-the-badge&color=grey) ![Qml](https://img.shields.io/badge/QML-00599C?style=for-the-badge&color=00000000) |
 | **Debugging** |  ![GDB](https://img.shields.io/badge/GDB-00599C?style=for-the-badge&color=grey)  |
 | **Compilers** |  ![GCC](https://img.shields.io/badge/GCC-00599C?style=for-the-badge&color=grey) ![Clang](https://img.shields.io/badge/Clang-00599C?style=for-the-badge&color=grey) |
 | **Doc Generator** | ![Doxide](https://img.shields.io/badge/Doxide-00599C?style=for-the-badge&color=grey) |
@@ -34,8 +34,14 @@ just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a
 <details><summary><b>Click to see my current profile status</b></summary>
 <div align="center">
 <h2>My GitHub Stats</h2>
-<img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=Rellotscrewdriver&count_private=true&show_icons=true&custom_title=Rellot%27s%20Github%20Stats&theme=transparent&text_color=ff1493&icon_color=ffffff&title_color=ff1493&hide_border=true" />
-<img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rellotscrewdriver&layout=compact&theme=transparent&text_color=ff1493&title_color=ff1493&card_width=250&hide_border=true" />
+<img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=Rellotscrewdriver&count_private=true&show_icons=true&custom_title=Rellot%27s%20Github%20Stats&theme=00000000&text_color=ff1493&icon_color=ffffff&title_color=ff1493&hide_border=true" />
+<img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rellotscrewdriver&layout=compact&theme=00000000&text_color=ff1493&title_color=ff1493&card_width=250&hide_border=true" />
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=rellotscrewdriver&hide_border=true&
+date_format=j%20M%5B%20Y%5D&background=00000000&sideLabels=67ADD3&currStreakLabel=80CCED" />
+</p>
+
+
   <p align="left"><b><i>NOTE</i></b> : the above data (especially Most Used Languages) does not indicate my skill level or anything like that, it's a github metric of which languages i have the most code on github</p>
 </div>
 </details>
