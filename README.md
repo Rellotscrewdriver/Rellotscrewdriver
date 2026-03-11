@@ -34,8 +34,8 @@ just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a
 <details><summary><b>Click to see my current profile status</b></summary>
 <div align="center">
 <h2>My GitHub Stats</h2>
-<img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=Rellotscrewdriver&count_private=true&show_icons=true&custom_title=Rellot%27s%20Github%20Stats&theme=00000000&text_color=ff1493&icon_color=ffffff&title_color=ff1493&hide_border=true" />
-<img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rellotscrewdriver&layout=compact&theme=00000000&text_color=ff1493&title_color=ff1493&card_width=250&hide_border=true" />
+<img height="170em" align="center" src="profile/stats.svg" />
+<img height="170em" align="center" src="profile/top_langs.svg" />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rellotscrewdriver&theme=transparent&border_radius=9.1&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&excludeDaysLabel=EB5454)](https://git.io/streak-stats)
 
