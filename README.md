@@ -37,7 +37,9 @@ just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a
 <img height="170em" align="center" src="profile/stats.svg" />
 <img height="170em" align="center" src="profile/top_langs.svg" />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rellotscrewdriver&theme=transparent&border_radius=9.1&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&excludeDaysLabel=EB5454)](https://git.io/streak-stats)
+---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rellotscrewdriver&theme=transparent&border_radius=9.1&&card_width=800&date_format=j%20M%5B%20Y%5D&mode=weekly&excludeDaysLabel=EB5454)](https://git.io/streak-stats)
 
   <p align="left"><b><i>NOTE</i></b> : the above data (especially Most Used Languages) does not indicate my skill level or anything like that, it's a github metric of which languages i have the most code on github</p>
 </div>
