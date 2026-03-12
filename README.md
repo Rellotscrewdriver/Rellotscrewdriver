@@ -16,16 +16,16 @@ just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a
 <div align="left">
 <h2 align="center">My Current Skillset</h2>
 
-| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&color=grey) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&color=grey) ![Java](https://img.shields.io/badge/Java-00599C?style=for-the-badge&color=grey) ![Py](https://img.shields.io/badge/Python-00599C?style=for-the-badge&color=grey) |
+| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&color=006AFF) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&color=006AFF) ![Java](https://img.shields.io/badge/Java-00599C?style=for-the-badge&color=006AFF) ![Py](https://img.shields.io/badge/Python-00599C?style=for-the-badge&color=006AFF) |
 | :--- | :------ |
-| **Version Control** | ![Git](https://img.shields.io/badge/Git-00599C?style=for-the-badge&color=grey) ![LazyGit](https://img.shields.io/badge/Lazygit-00599C?style=for-the-badge&color=grey) ![Github](https://img.shields.io/badge/GitHub-00599C?style=for-the-badge&color=grey) |
-| **Build System** |  ![Make](https://img.shields.io/badge/Make-00599C?style=for-the-badge&color=grey) ![Ninja](https://img.shields.io/badge/Ninja-00599C?style=for-the-badge&color=grey) ![Cmake](https://img.shields.io/badge/Cmake-00599C?style=for-the-badge&color=grey) |
-| **Frameworks** |  ![SFML](https://img.shields.io/badge/SFML-00599C?style=for-the-badge&color=grey) ![QT](https://img.shields.io/badge/QT-00599C?style=for-the-badge&color=grey) ![Qml](https://img.shields.io/badge/QML-00599C?style=for-the-badge&color=00000000) |
-| **Debugging** |  ![GDB](https://img.shields.io/badge/GDB-00599C?style=for-the-badge&color=grey)  |
-| **Compilers** |  ![GCC](https://img.shields.io/badge/GCC-00599C?style=for-the-badge&color=grey) ![Clang](https://img.shields.io/badge/Clang-00599C?style=for-the-badge&color=grey) |
-| **Doc Generator** | ![Doxide](https://img.shields.io/badge/Doxide-00599C?style=for-the-badge&color=grey) |
-| **Text Editor** |  ![VScode](https://img.shields.io/badge/VScode-00599C?style=for-the-badge&color=grey) ![Neovim](https://img.shields.io/badge/Neovim-00599C?style=for-the-badge&color=grey) |
-| **Operating System** |  ![ArchLinux](https://img.shields.io/badge/ArchLinux-00599C?style=for-the-badge&color=grey) ![Win11](https://img.shields.io/badge/WIndows11-00599C?style=for-the-badge&color=grey) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-00599C?style=for-the-badge&color=006AFF) ![LazyGit](https://img.shields.io/badge/Lazygit-00599C?style=for-the-badge&color=006AFF) ![Github](https://img.shields.io/badge/GitHub-00599C?style=for-the-badge&color=006AFF) |
+| **Build System** |  ![Make](https://img.shields.io/badge/Make-00599C?style=for-the-badge&color=006AFF) ![Ninja](https://img.shields.io/badge/Ninja-00599C?style=for-the-badge&color=006AFF) ![Cmake](https://img.shields.io/badge/Cmake-00599C?style=for-the-badge&color=006AFF) |
+| **Frameworks** |  ![SFML](https://img.shields.io/badge/SFML-00599C?style=for-the-badge&color=006AFF) ![QT](https://img.shields.io/badge/QT-00599C?style=for-the-badge&color=006AFF) ![Qml](https://img.shields.io/badge/QML-00599C?style=for-the-badge&color=006AFF) |
+| **Debugging** |  ![GDB](https://img.shields.io/badge/GDB-00599C?style=for-the-badge&color=006AFF)  |
+| **Compilers** |  ![GCC](https://img.shields.io/badge/GCC-00599C?style=for-the-badge&color=006AFF) ![Clang](https://img.shields.io/badge/Clang-00599C?style=for-the-badge&color=006AFF) |
+| **Doc Generator** | ![Doxide](https://img.shields.io/badge/Doxide-00599C?style=for-the-badge&color=006AFF) |
+| **Text Editor** |  ![VScode](https://img.shields.io/badge/VScode-00599C?style=for-the-badge&color=006AFF) ![Neovim](https://img.shields.io/badge/Neovim-00599C?style=for-the-badge&color=006AFF) |
+| **Operating System** |  ![ArchLinux](https://img.shields.io/badge/ArchLinux-00599C?style=for-the-badge&color=006AFF) ![Win11](https://img.shields.io/badge/WIndows11-00599C?style=for-the-badge&color=006AFF) |
 
 </details>
 
@@ -58,9 +58,9 @@ just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a
 <div align = "center">
   <h2>Contact Information</h2>
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&color=black&logoColor=deeppink)](https://discord.com/users/481829350749110293)
-[![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&color=black&logoColor=deeppink)](https://rellotscrewdriver.itch.io)
-[![SO](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&color=black&logoColor=deeppink)](https://stackoverflow.com/users/13572188/rellots-screwdriver)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&color=006AFF&logoColor=white)](https://discord.com/users/481829350749110293)
+[![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&color=006AFF&logoColor=white)](https://rellotscrewdriver.itch.io)
+[![SO](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&color=006AFF&logoColor=white)](https://stackoverflow.com/users/13572188/rellots-screwdriver)
 
 </div>
 
