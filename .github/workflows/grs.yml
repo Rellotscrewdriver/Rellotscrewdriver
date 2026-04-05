@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 10 * * 0"
+    - cron: "30 4 * * 1" # this is set to run at 10:00 AM in +5:30 time
   workflow_dispatch:
 
 jobs:
