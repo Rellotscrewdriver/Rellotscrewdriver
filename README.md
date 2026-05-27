@@ -8,8 +8,6 @@ just kidding! don't close the tab, you can just call me Rellot, Ratatouille or a
 - 2026 Resolution 
 	- Learn Godot and make some few games.
 	- Learn QT and make few my own wishlisted apps.
-  Fun fact: This theme is inspired by the [neon art deco](https://en.wikipedia.org/wiki/Miami#Culture_2) which was popularized by [Miami Vice](https://en.wikipedia.org/wiki/Miami_Vice)
-
 ---
 
 <details><summary><b>My Skillset</b></summary>
